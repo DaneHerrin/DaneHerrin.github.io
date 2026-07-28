@@ -5,11 +5,7 @@ toc: true
 
 [📄 Download PDF](assets/DaneHerrinResume.pdf){.btn .btn-primary role="button"}
 
-::: {.callout-note appearance="simple"}
-Drop your typeset resume at `assets/resume.pdf` and it appears below. Any PDF
-works tonight — export from Word, Google Docs, or a `vitae`/LaTeX template. The
-web summary below is what recruiters skim; the PDF is what they download.
-:::
+
 
 <iframe src="assets/DaneHerrinResume.pdf" width="100%" height="800px"
   style="border: 1px solid #ddd; margin-top: 1rem;">
