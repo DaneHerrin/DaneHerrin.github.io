@@ -22,6 +22,7 @@ about:
 ---
 
 Ever since I was a child I have wanted to turn data into actionable business insights.
+
 Right now I am finishing my M.S. in Data Science at **Willamette University**,
 where my capstone measured risk-adjusted returns over student constructed portfolios(capstone.qmd) for
 institutional and risk-averse investors.
