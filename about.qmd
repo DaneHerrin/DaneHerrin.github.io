@@ -12,9 +12,9 @@ about:
 The home page is the ten-second version. This is the longer story — write it in
 your own voice.
 
-I came to data science from \[your path: a major, a job, a question that would
-not leave you alone\]. What keeps me here is \[the part of the work you genuinely
-enjoy — the modeling, the wrangling, the moment a chart makes something click\].
+I came to data science from a single statistics class taught by Mike Hand. At the time, I had recently walked off of a jobsite as a bridge laborer into an MBA classroom. I enjoyed the trades, but knew that staying in that field would be sacrificing potential that I hadn't developed. I quickly realized that this potential could be at the intersection of business strategy, finance, and data science. Mike Hand's unique teaching style helped me understand the foundations of statistical concepts and how they reflect the world around us. 
+
+I feel that there is a greater truth in the sciences. They reflect what naturally occurs, and our human experience is best served uncovering the patterns that already exist. In this sense, technological advancements are discovered rather than invented. Data Science is a discovery process that I can explore indefinitely. 
 
 At Willamette my focus has been \[your emphasis: forecasting, causal inference,
 NLP, data engineering, ...\]. My [capstone](capstone.qmd) is where that comes
@@ -22,14 +22,14 @@ together.
 
 ### Beyond the terminal
 
-- 🌲 \[Something human — a hobby, a place, a cause.\]
-- 📚 \[Currently reading / learning / building.\]
-- 🎯 \[What you want to be doing in two years.\]
+- 🌲 \ I'm a huge fan of Jiu Jitsu, MMA, writing, building open source AI models that spit out gibberish, and being a father and husband
+- 📚 \ I'm currently reading the Edmund Morris three part biography of Teddy Roosevelt, Nassim Taleb's book "Antifragile", and Musashi Miyamoto's "The Book of Five Rings"
+- 🎯 \ In the future, I hope to be happily watching my family grow while doggedly pursuing a wonderful life for my children and wife. 
 
 ### Get in touch
 
-I'm happy to talk about \[data work, collaborations, roles\].
+I'm happy to talk about martial arts, regional commercial real estate trends, Austrian economics.
 
-- ✉️ [you@willamette.edu](mailto:you@willamette.edu)
-- 💼 [LinkedIn](https://linkedin.com/in/your_github_username)
-- 💻 [GitHub](https://github.com/your_github_username)
+- ✉️ [daneherrin@gmail.com](mailto:daneherrin@gmail.com)
+- 💼 [LinkedIn](https://linkedin.com/in/Dane-Herrin)
+- 💻 [GitHub](https://github.com/DaneHerrin)
