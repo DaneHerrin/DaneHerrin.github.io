@@ -1,7 +1,7 @@
 ---
 title: "Dane Herrin"
 subtitle: "MBA, M.S. Data Science Candidate · Willamette University"
-image: images/profile.png
+image: images/profile.jpg
 about:
   template: trestles
   image-shape: round
@@ -21,17 +21,15 @@ about:
       href: resume.qmd
 ---
 
-I build data pipelines and turn messy data into decisions people can act on.
+Ever since I was a child I have wanted to turn data into actionable business insights.
 Right now I am finishing my M.S. in Data Science at **Willamette University**,
-where my capstone [predicts \[your one-line problem\]](capstone.qmd) for
-\[your stakeholder\].
+where my capstone measured risk-adjusted returns over student constructed portfolios(capstone.qmd) for
+institutional and risk-averse investors.
 
-I care about \[topics you actually care about — e.g. housing, health equity,
-sports analytics\], reproducible workflows, and explaining a model to the person
-who has to trust it.
+I care about financial modeling, market analysis, how people interact and organize in business settings, achieving alpha, and jiu jitsu.
 
-**Currently looking for** \[data analyst / data scientist / ML engineer\] roles
-starting \[month year\]. [Get in touch](about.qmd) or grab my
+**Currently looking for** quantitative financial research or fund management roles
+starting August, 2026. [Get in touch](about.qmd) or grab my
 [resume](resume.qmd).
 
 ---
@@ -40,6 +38,10 @@ starting \[month year\]. [Get in touch](about.qmd) or grab my
 
 ::: {.g-col-12 .g-col-md-4}
 ### 🎓 Education
+Bachelor's in Fine Arts
+Evergreen State College
+MBA
+Willamette University, 2026
 M.S. Data Science
 Willamette University, 2026
 :::
@@ -47,13 +49,13 @@ Willamette University, 2026
 ::: {.g-col-12 .g-col-md-4}
 ### 🛠️ Toolkit
 R · Python · SQL
-Quarto · Git · \[add yours\]
+Quarto · Git · **Advanced Excel** · **Seriously, Really Good at Excel**
 :::
 
 ::: {.g-col-12 .g-col-md-4}
 ### 📍 Based in
 Salem, OR
-Open to \[remote / relocation\]
+Open to Relocation, Especially to states with lots of sun
 :::
 
 :::

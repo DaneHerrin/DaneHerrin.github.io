@@ -17,28 +17,29 @@ web summary below is what recruiters skim; the PDF is what they download.
 
 ## Education
 
+**MBA** — Willamette University, Salem, OR *(2026)*
 **M.S. Data Science** — Willamette University, Salem, OR *(2026)*
-**B.S. \[Your Major\]** — \[Your University\], \[City\] *(\[year\])*
+**B.S. Fine Arts** — The Evergreen State College, Olympia, WA 
 
 ## Skills
 
 | Area | Tools |
 |------|-------|
 | **Languages** | R, Python, SQL |
-| **Data & ML** | \[tidyverse / pandas, scikit-learn, ...\] |
+| **Data & ML** | \tidyverse / pandas, scikit-learn, tidyfinance, tidyquant |
 | **Workflow** | Git, Quarto, \[Docker, cloud, ...\] |
 | **Communication** | Technical writing, data visualization |
 
 ## Experience
 
-**\[Job Title\]** — \[Organization\], \[Location\] *(\[dates\])*
+**Economic Development Analyst** — Confederated Tribes of Grand Ronde, Grand Ronde, OR *(May, 2025-Present)*
 
 - Accomplishment framed as impact, not a task description.
 - Another accomplishment with a number in it if you have one.
 
 ## Projects
 
-**\[Capstone Title\]** — see the [Capstone page](capstone.qmd) for the full story.
+**Risky Business: Risk-Adjusted Returns Across Portfolios and Regimes** — see the [Capstone page](capstone.qmd) for the full story.
 
 - One line on the problem and your role.
 
