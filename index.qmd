@@ -1,6 +1,6 @@
 ---
-title: "Blitz Bearcat"
-subtitle: "M.S. Data Science Candidate · Willamette University"
+title: "Dane Herrin"
+subtitle: "MBA, M.S. Data Science Candidate · Willamette University"
 image: images/profile.png
 about:
   template: trestles
@@ -9,13 +9,13 @@ about:
   links:
     - icon: github
       text: GitHub
-      href: https://github.com/your_github_username
+      href: https://github.com/DaneHerrin
     - icon: linkedin
       text: LinkedIn
-      href: https://linkedin.com/in/your_github_username
+      href: https://linkedin.com/in/Dane-Herrin
     - icon: envelope
       text: Email
-      href: mailto:you@willamette.edu
+      href: mailto:daneherrin@gmail.com
     - icon: file-earmark-pdf
       text: Resume
       href: resume.qmd
