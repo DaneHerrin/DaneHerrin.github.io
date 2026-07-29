@@ -6,9 +6,7 @@ toc: true
 [📄 Download PDF](assets/DaneHerrinResume.pdf){.btn .btn-primary role="button"}
 
 ::: {.callout-note appearance="simple"}
-Drop your typeset resume at `assets/resume.pdf` and it appears below. Any PDF
-works tonight — export from Word, Google Docs, or a `vitae`/LaTeX template. The
-web summary below is what recruiters skim; the PDF is what they download.
+Here is my Resume. There are many like it, but this one is mine.
 :::
 
 <iframe src="assets/DaneHerrinResume.pdf" width="100%" height="800px"
@@ -27,21 +25,25 @@ web summary below is what recruiters skim; the PDF is what they download.
 |------|-------|
 | **Languages** | R, Python, SQL |
 | **Data & ML** | \tidyverse / pandas, scikit-learn, tidyfinance, tidyquant |
-| **Workflow** | Git, Quarto, \[Docker, cloud, ...\] |
-| **Communication** | Technical writing, data visualization |
+| **Workflow** | Git, Quarto, Docker, cloud, Anaconda, Linux |
+| **Communication** | Technical writing, data visualization, Microsoft Suite, Excellent presentation and writing skills |
 
 ## Experience
 
 **Economic Development Analyst** — Confederated Tribes of Grand Ronde, Grand Ronde, OR *(May, 2025-Present)*
 
-- Accomplishment framed as impact, not a task description.
-- Another accomplishment with a number in it if you have one.
+- I implemented standardized opportunity assessment process for incoming projects
+- Reduced redundant charges and processes, saving over 15% on the budget year one 
+- Oversaw the creation of the Grand Ronde Comprehensive Economic Development Strategy, a living economic constitution that guides economic and investment strategy for Grand Ronde
+- Lead projects that optimized revenue growth for several Grand Ronde businesses
+- Kept open lines of communication with executive staff and Tribal Council
 
 ## Projects
 
 **Risky Business: Risk-Adjusted Returns Across Portfolios and Regimes** — see the [Capstone page](capstone.qmd) for the full story.
 
-- One line on the problem and your role.
+- Created the strategies and portfolios for the project
+- Developed code and visualizations for the project
+- Co-published and co-presented with group partner Alexander Jackson
 
-*Placeholders in brackets are fine while you build. Replace them with real,
-defensible entries as they materialize — sparse and true beats full and shaky.*
+
