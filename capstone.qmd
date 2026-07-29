@@ -31,12 +31,9 @@ We combine backtesting, risk analysis, and statistical time-series modeling. We 
 
 ## Findings
 
-Lead with your best figure or your architecture diagram.
+![Cumulative Returns By Regime](cumulative_returns_by_regime.png){width="90%"}
 
-![Replace with your key result or system diagram.](projects/capstone/featured.svg){fig-alt="Placeholder capstone figure" width="90%"}
-
-State the finding in plain language, then the caveat. Sparse and true beats
-full and shaky.
+We found that the companies with the highest returns were also the companies with the most volatility in periods of market withdrawal. 
 
 ## The full write-up
 
@@ -72,5 +69,5 @@ rely on `freeze`) on any chunk that needs data the public repo does not contain.
 
 ## Dig deeper
 
-- 📦 **Code & pipeline:** [your-capstone-repo](https://github.com/your_github_username/your-capstone-repo)
+- 📦 **Code & pipeline:** [my-capstone-repo](https://github.com/DaneHerrin/data510--Quant-Back-Testing-)
 - 📊 **Slides / poster:** \[link if you have one\]

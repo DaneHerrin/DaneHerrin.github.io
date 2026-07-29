@@ -21,10 +21,10 @@ about:
       href: resume.qmd
 ---
 
-Ever since I was a child I have wanted to turn data into actionable business insights.
+Ever since I was a child I have wanted to turn unstructured data into actionable business insights.
 
 Right now I am finishing my M.S. in Data Science at **Willamette University**,
-where my capstone measured risk-adjusted returns over student constructed portfolios(capstone.qmd) for
+where my capstone measured risk-adjusted returns over student constructed portfolios for
 institutional and risk-averse investors.
 
 I care about financial modeling, market analysis, how people interact and organize in business settings, achieving alpha, and jiu jitsu.
@@ -39,12 +39,12 @@ starting August, 2026. [Get in touch](about.qmd) or grab my
 
 ::: {.g-col-12 .g-col-md-4}
 ### 🎓 Education
-Bachelor's in Fine Arts
-Evergreen State College
 MBA
 Willamette University, 2026
 M.S. Data Science
 Willamette University, 2026
+Bachelor's in Fine Arts
+Evergreen State College
 :::
 
 ::: {.g-col-12 .g-col-md-4}
